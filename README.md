@@ -14,4 +14,4 @@
 | Item | Link |
 |---|---|
 | Video Youtube | https://www.youtube.com/watch?v=YRu21IhyqEU |
-| Repositório GitHub | https://github.com/LucasViana130/GS1-JAVA |
+| Repositório GitHub | https://github.com/LucasViana130/SmartCare.git |
